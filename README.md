@@ -8,7 +8,7 @@
 <img src="https://i.ibb.co/6FqxwSt/2.png" alt="2" border="0"
      style="float: left" 
      />
-#### Building materials of the app:     
+#### Building materials:     
      1. PHP.
      2. mysql.
      
