@@ -15,6 +15,7 @@ function openPage(url) {
 
     var encodedUrl = encodeURI(url + "&userLoggedIn=" + userLoggedIn);
     $("#mainContent").load(encodedUrl);
+    history.pushState(null,null,url);
 
 }
 
